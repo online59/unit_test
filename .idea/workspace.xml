@@ -51,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testPowerBasePositivePowerVeryBigNumber">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittest" />
       <extension name="coverage">
@@ -133,9 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testPowerBasePositivePowerVeryBigNumber" />
         <item itemvalue="JUnit.CalculatorTest.testPowerBaseNegativePowerNegativeNumber" />
-        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testPowerBaseNegativePowerZero" />
         <item itemvalue="JUnit.CalculatorTest.testPowerBasePositivePowerTwo_isReturnMoreThanOne" />
       </list>
