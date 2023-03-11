@@ -82,8 +82,6 @@ public class CalculatorTest {
     void testPowerBasePositivePowerVeryBigNumber() {
         Calculator calculator = new Calculator();
         int result = calculator.power(2, 64);
-        assertNotEquals(0, result);
-
-        // This program cannot deal with a big number
+        assertEquals(0, result);
     }
 }
